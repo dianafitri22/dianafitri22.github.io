@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-03-25 21:32:40 +0200
-img:
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+title:  "TEMAN GILA"
+date:   2017-12-10 21:32:40 +0200
+img: teman.jpg
+description: perkenalkan, aku mempunyai teman gila di kampus, mereka teman gila, kocak, suka merajuk, kelahi, patah hati, galau, dan mereka teman yang suka bully. perkenalan dari sebelah kiri itu saya, setelah saya ada Fithratul Husna, Fitri Sarah Ariani Rambe dan Cindy Yuristie. 
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
