@@ -10,8 +10,6 @@ Nama ku adalah Diana Fitri, aku terlakhir dari ayah yang bernama Abdul Hamid Sya
 
 DAFTAR RIWAYAT HIDUP
 
- 
-
 DATA PRIBADI
 
 Nama : Diana Fitri
