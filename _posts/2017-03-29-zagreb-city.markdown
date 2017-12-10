@@ -3,7 +3,7 @@ layout: post
 title:  "Zagreb city"
 img: diana.jpg
 date:   2017-03-29 00:00:00 +0200
-description: Pekenalkan nama ku adalah Diana Fitri, aku lahir dari seorang ayah yang bernama Abdul Hamid Syahrofi b.a dan ibu yang bernama Komariah. Aku adalah anak terakhir/bungsu dari empat bersaudara. Kakak ku pertama bernama Hidayani, anak kedua bernama Muhammmad Syukri dan anak ke tiga bernama Hidayatul Fitri.Cras ac ex sit amet leo rhoncus elementum eget eget eros. Curabitur venenatis lacus eget tempus consequat. Duis feugiat vehicula bibendum. Aliquam imperdiet tortor in diam viverra scelerisque. Vestibulum erat odio, rutrum nec volutpat et, mattis id diam.
+description: Pekenalkan nama ku adalah Diana Fitri, aku lahir dari seorang ayah yang bernama Abdul Hamid Syahrofi b.a dan ibu yang bernama Komariah. Aku adalah anak terakhir/bungsu dari empat bersaudara. Kakak ku pertama bernama Hidayani, anak kedua bernama Muhammmad Syukri dan anak ke tiga bernama Hidayatul Fitri.
 ---
 
 assalamualaikum...
