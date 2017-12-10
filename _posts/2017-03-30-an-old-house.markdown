@@ -3,11 +3,33 @@ layout: post
 title:  "Family"
 date:   2017-03-30 00:00:00
 img: diana.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
----
+description: family: Nama ku adalah Diana Fitri, aku terlakhir dari ayah yang bernama Abdul Hamid Syahrafi b.a dan ibu komariah, Aku adalah anak terakhir/bungsu dari empat bersaudara, anak pertama dalam keluarga ini bernama Hidayani, anak kedua bernama Muhammad Sykri, dan anak ketiga Hidayatul Fitri. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nama ku adalah Diana Fitri, aku terlakhir dari ayah yang bernama Abdul Hamid Syahrafi b.a dan ibu komariah, Aku adalah anak terakhir/bungsu dari empat bersaudara, anak pertama dalam keluarga ini bernama Hidayani, anak kedua bernama Muhammad Sykri, dan anak ketiga Hidayatul Fitri. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DAFTAR RIWAYAT HIDUP
+
+ 
+
+DATA PRIBADI
+
+Nama : Diana Fitri
+Jenis Kelamin : Perempuan
+Tempat, Tanggal Lahir : Pekanbaru, 22 Februari 1996
+Kewarganegaraan : Indonesia
+Status Perkawinan : Belum Menikah
+Agama : Islam
+Kesehatan : Sangat Baik
+Alamat Lengkap : Jalan Temu Kasih no 26, Tenayan Raya Pekanbaru
+Nomor Telepon : 
+
+PENDIDIKAN FORMAL
+
+2002 – 2008 : SDN 059 Pekanbaru
+2008 – 2009 : Pesantren Syahruddiniyah
+2009 – 2011 : MTSN PP Darul Ullum
+2011 – 2014 : SMAN 11 Pekanbaru 
+2014 - sekarang : kuliah di UIN SUSKA RIAU
+
+
