@@ -6,6 +6,8 @@ date:   2017-03-29 00:00:00 +0200
 description: Cras ac ex sit amet leo rhoncus elementum eget eget eros. Curabitur venenatis lacus eget tempus consequat. Duis feugiat vehicula bibendum. Aliquam imperdiet tortor in diam viverra scelerisque. Vestibulum erat odio, rutrum nec volutpat et, mattis id diam.
 ---
 
+assalamualaikum...
+Pekenalkan nama ku adalah Diana Fitri, aku lahir dari seorang ayah yang bernama Abdul Hamid Syahrofi b.a dan ibu yang bernama Komariah. Aku adalah anak terakhir/bungsu dari empat bersaudara. Kakak ku pertama bernama Hidayani, anak kedua bernama Muhammmad Syukri dan anak ke tiga bernama Hidayatul Fitri.
 
 Ut ut dolor vehicula, aliquam elit vitae, venenatis velit. Pellentesque sollicitudin vestibulum ligula, in volutpat elit vehicula vel. Mauris massa ante, vestibulum eget nisi vel, elementum tempor risus. Vivamus tincidunt ligula lorem. In viverra suscipit enim et finibus. Cras porta massa vitae ligula pretium dapibus. Ut nisl nulla, sollicitudin nec viverra quis, bibendum vel tortor. Aenean at porttitor dolor, id tristique purus. Phasellus consequat justo in elit congue sagittis. Cras at dolor molestie nisl feugiat scelerisque.
 
