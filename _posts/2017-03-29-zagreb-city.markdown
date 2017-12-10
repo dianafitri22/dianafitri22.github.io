@@ -2,7 +2,7 @@
 layout: post
 title:  "Family"
 img: diana.jpg
-date:   2017-15-10 00:00:00 +0200
+date:   2017-12-10 00:00:00 +0200
 description: Pekenalkan nama ku adalah Diana Fitri, aku lahir dari seorang ayah yang bernama Abdul Hamid Syahrofi b.a dan ibu yang bernama Komariah. Aku adalah anak terakhir/bungsu dari empat bersaudara. Kakak ku pertama bernama Hidayani, anak kedua bernama Muhammmad Syukri dan anak ke tiga bernama Hidayatul Fitri.
 ---
 
