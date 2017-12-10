@@ -4,7 +4,7 @@ title:  "Family"
 date:   2017-03-30 00:00:00
 img: diana.jpg
 description: family: Nama ku adalah Diana Fitri, aku terlakhir dari ayah yang bernama Abdul Hamid Syahrafi b.a dan ibu komariah, Aku adalah anak terakhir/bungsu dari empat bersaudara, anak pertama dalam keluarga ini bernama Hidayani, anak kedua bernama Muhammad Sykri, dan anak ketiga Hidayatul Fitri. 
-
+---
 Nama ku adalah Diana Fitri, aku terlakhir dari ayah yang bernama Abdul Hamid Syahrafi b.a dan ibu komariah, Aku adalah anak terakhir/bungsu dari empat bersaudara, anak pertama dalam keluarga ini bernama Hidayani, anak kedua bernama Muhammad Sykri, dan anak ketiga Hidayatul Fitri. 
 
 
