@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Wooden house"
-img: wooden_house.jpg
+title:  "Rumah Zakat"
+img: fitri.jpg
 date:   2017-03-29 00:00:00 +0200
 description: Phasellus tincidunt pulvinar ante, pretium pellentesque urna mollis id. Donec convallis ut elit at aliquet. Suspendisse potenti.
 ---
